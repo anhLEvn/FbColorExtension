@@ -1,0 +1,24 @@
+.fb-color {
+    position: fixed;
+    right: 10px;
+    bottom: 5%;
+}
+.fb-color button{
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    font-size:120%; 
+}
+
+.fb-color button.btnOlive{
+    background-color: olive;
+
+}
+.fb-color button.btnYellow{
+    background-color: yellow;
+
+}
+
+.fb-color button.active{
+    color: red;
+}
